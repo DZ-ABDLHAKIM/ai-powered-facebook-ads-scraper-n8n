@@ -8,7 +8,7 @@ This N8N workflow automatically converts plain English requests into structured 
 
 ## Workflow Architecture
 
-![N8N Facebook Ads Intelligence Workflow](https://raw.githubusercontent.com/DZ-ABDLHAKIM/ai-powered-facebook-ads-scraper-n8n/refs/heads/main/images/workflow-architecture.png)
+![N8N Facebook Ads Intelligence Workflow](https://raw.githubusercontent.com/DZ-ABDLHAKIM/ai-powered-facebook-ads-scraper-n8n/refs/heads/main/images/workflow-architecture-1.png)
 
 The pipeline consists of four main components:
 
