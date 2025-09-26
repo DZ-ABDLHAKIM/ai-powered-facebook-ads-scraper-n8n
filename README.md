@@ -140,7 +140,7 @@ This workflow integrates with our production-grade scraping infrastructure:
 
 - [Facebook Ads Scraper Pro](https://apify.com/dz_omar/facebook-ads-scraper-pro) - Core data extraction engine
 - [Idealista Real Estate Scraper](https://apify.com/dz_omar/idealista-scraper) - Property market intelligence
-- [YouTube Content Extractor](https://apify.com/dz_omar/youtube-transcript-pro) - Video platform analysis
+- [YouTube Content Extractor](https://apify.com/dz_omar/youtube-transcript-extractor) - Video platform analysis
 - [Universal Web Scraper](https://apify.com/dz_omar/ultimate-screenshot) - Multi-format web data extraction
 
 ## License
